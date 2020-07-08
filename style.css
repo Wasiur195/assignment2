@@ -1,0 +1,130 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.container{
+    margin-bottom: 100px;
+    
+    
+    }
+
+.green-bg{
+    background-color:#F0FFF0;
+    margin: 0;
+    padding: 10px;
+    
+  
+  
+}
+.red{
+    color: red;
+}
+.extra-color{
+    color: #21B573;
+}
+.button{
+    background-color: #21B573;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+    
+}
+
+.content h1{
+    font-weight: 800;
+}
+.content p{
+    color: grey;
+}
+#categories h4{
+    color: black;
+}
+#categories h5{
+    color: gray;
+}
+#categories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+    border-radius: 10px;
+    background-color: #F8FFFB;
+   
+}
+.card :hover{
+    
+    transform: scale(.5);
+}
+
+
+.card-deck{
+    padding: 2%;
+}
+
+#courses h5{
+    color: black;
+}
+#courses h6{
+    color: gray;
+}
+#courses img{
+    width: 300px;
+}
+.cards{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+    border-radius: 10px;
+    background-color: #F8FFFB;
+   
+}
+#people img{
+    width: 20px;
+}
+#calender img{
+    width: 20px;
+}
+.online{
+    text-align: center;
+    font-weight: 800;
+    color: #413960;
+    font-size: 35px;
+}
+.buyer img{
+    width: 100px;
+    margin-left: 10%;
+    
+}
+#test h3{
+    text-align: center;
+    font-weight: 800;
+    color:black;
+    font-size: 35px;
+}
+.footer-bg{
+    background-color:#282531 ;
+    margin: 0;
+    padding: 100px;
+}
+
+.row p{
+    color: white;
+}
+.list-unstyled li a{
+    color: white;
+}
+
+.text-uppercase{
+    color: white;
+    font-size: 20px;
+}
+.footer-copyright{
+    color: white;
+    
+}
+.prog{
+    color: white;
+
+   
+}
